@@ -15,10 +15,10 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+header h1 a {
     display: inline;
     font-size: 48px;
-    color: #d9dcd6;
+    color: #ffffff;
     margin: 0;
 }
 
